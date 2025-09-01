@@ -1,10 +1,1 @@
-Root 1 (base 10): 4 = 4
-Root 2 (base 2): 111 = 7
-Root 3 (base 10): 12 = 12
-Root 4 (base 4): 213 = 39
-
-Polynomial coefficients (from highest to lowest degree):
-x^3: 1
-x^2: -23
-x^1: 172
-x^0: -336
+3
