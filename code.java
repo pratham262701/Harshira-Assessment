@@ -48,7 +48,7 @@ public class HashiraPlacements {
         
         coefficients.add(BigInteger.ONE);
         
-        // Use Vieta's formulas to compute coefficients
+        
         for (int i = 0; i < n; i++) {
             BigInteger root = roots.get(i);
             List<BigInteger> newCoeffs = new ArrayList<>();
